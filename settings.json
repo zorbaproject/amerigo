@@ -1,0 +1,10 @@
+{
+    "newpoint":"Add new point",
+    "editpoint":"Edit point",
+    "title":"My customized map",
+    "center": [12.482778, 41.893056],
+    "zoom":"3",
+    "zoomto":"15",
+    "tags": ["first category","second category"],
+    "datasource":"points.php"
+}
